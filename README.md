@@ -20,4 +20,4 @@ Apart of this, I've been developing a simple interface which asks for all the ne
  - fich_name: name of the fich which saves all data
  
 
-This script has been writting in Python v3.8 and it uses the bitstring library.
+This script has been written in Python v3.8 and it uses the bitstring library.
