@@ -24,9 +24,9 @@ Example:
   - IV='d3c5d592327fb11cde551988ceb2f9b7'
   - m=1
   - n=4
-  - fich_name=whatever haha
+  - fich_name=whatever (hahaha)
   
-  - output=[BitArray('0xeff8a342'), BitArray('0xf751480f'), BitArray('0x8383b51d'), BitArray('0xdf4815fa')]
+  - OUTPUT=[BitArray('0xeff8a342'), BitArray('0xf751480f'), BitArray('0x8383b51d'), BitArray('0xdf4815fa')]
 
 To validate the correct functioning of the cipher, first of all I checked the correct functioning of the most basic functions (MULx, MULxPOW, MULalpha, DIValpha) with the examples provided by the specification itself. Then, to validate the output I used the portal https://asecuritysite.com/encryption/snow which provides two examples.
 
