@@ -1,7 +1,6 @@
 # SNOW-3G-encryption-algorithm
 
-This is an implementation of the SNOW 3G encryption algorithm written in Python.
-It consists of the core of my degree's final project.
+## This is an implementation of the SNOW 3G encryption algorithm written in Python. It consists of the core of my degree's final project.
 
 The objective of this project is to provide a tool that generates encryption sequences for the analysis and study of the parameters of the sequences.
 
@@ -26,6 +25,7 @@ Example:
   - m=1
   - n=4
   - fich_name=whatever (hahaha)
+  
   - OUTPUT=[BitArray('0xeff8a342'), BitArray('0xf751480f'), BitArray('0x8383b51d'), BitArray('0xdf4815fa')]
 ```
 
