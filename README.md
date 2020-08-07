@@ -29,6 +29,6 @@ Example:
   - OUTPUT=[BitArray('0xeff8a342'), BitArray('0xf751480f'), BitArray('0x8383b51d'), BitArray('0xdf4815fa')]
 ```
 
-To validate the correct functioning of the cipher, first of all I checked the correct functioning of the most basic functions (MULx, MULxPOW, MULalpha, DIValpha) with the examples provided by the specification itself. Then, to validate the output I used the portal https://asecuritysite.com/encryption/snow which provides two examples.
+To validate the correct functioning of the cipher, first of all I checked the correct functioning of the most basic functions (MULx, MULxPOW, MULalpha, DIValpha) with the examples provided by the specification itself. Then, to validate the output I used the portal [https://asecuritysite.com/encryption/snow] which provides two examples.
 
 This script has been written in Python v3.8 and it uses the bitstring library.
